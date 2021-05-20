@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning REACT, EJS, PYTHON
-- 🤔 I’m looking for help with React
+- 🌱 I’m currently learning JAVA, SQL and PYTHON.
+- 🤔 I’m looking for help with JAVA.
 
